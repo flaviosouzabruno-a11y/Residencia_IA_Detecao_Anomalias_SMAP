@@ -19,7 +19,8 @@ Este projeto implementa e compara modelos de Machine Learning Supervisionado (Ra
 
 1.  **Download do Código:** Clone este repositório ou baixe o arquivo `detecao_anomalias_nasa_smap.ipynb`.
 2.  **Acesso ao Dataset:** O dataset utilizado é o **NASA Anomaly Detection Dataset SMAP & MSL** (Kaggle).
-3.  **Execução:** Abra o arquivo `.ipynb` no Google Colab e execute as células sequencialmente. O código trata automaticamente o acesso e a rotulagem dos dados.
+3.  https://www.kaggle.com/datasets/patrickfleith/nasa-anomaly-detection-dataset-smap-msl
+4.  **Execução:** Abra o arquivo `.ipynb` no Google Colab e execute as células sequencialmente. O código trata automaticamente o acesso e a rotulagem dos dados.
 
 ## 📊 Resultados Chave (Análise de Risco)
 A análise demonstrou que o Random Forest é o modelo mais seguro para a missão:
